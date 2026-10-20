@@ -1,0 +1,11 @@
+
+{
+  "name": "red-color-theory",
+  "version": "1.0.0",
+  "description": "Red Color Theory - Tu as bien plus à offrir",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
